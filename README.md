@@ -2,17 +2,43 @@
 
 Computer Graphics
 
-Sensing and Measurement
+Computational Sensing
 
 Computational Imaging
 
-Computational Photography/Display
+Computational Display
+
+Computational Microcope
 
 3D Vision
 
-AR/VR
+AR/VR&MR
 
 Agent
+
+## Journal
+
+ACM Transaction on Graphics (TOG)
+
+IEEE Transactions on Computational Imaging (TCI)
+
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
+
+Optica
+
+Optics Express (OE)
+
+Optics Letters (OL)
+
+IEEE Photonics Journal (PJ)
+
+## Conference
+
+Special Interest Group for Computer GRAPHICS (SIGGRAPH)
+
+IEEE International Conference on Computational Photograph (ICCP)
+
+Computational Optical Sensing and Imaging (COSI)
 
 ## Business
 
@@ -44,30 +70,6 @@ NOISE:Nano Optoelectronic Integrated System Engineering-
 [Homepage: https://labs.ece.uw.edu/amlab/index.html]-
 [Google Scholor: https://scholar.google.com/citations?user=DpIGlW4AAAAJ&hl=en&oi=ao]
 
-## Journal
-
-ACM Transaction on Graphics (TOG)
-
-IEEE Transactions on Computational Imaging (TCI)
-
-IEEE Transactions on Visualization and Computer Graphics (TVCG)
-
-Optica
-
-Optics Express (OE)
-
-Optics Letters (OL)
-
-IEEE Photonics Journal (PJ)
-
-## Conference
-
-Special Interest Group for Computer GRAPHICS (SIGGRAPH)
-
-IEEE International Conference on Computational Photograph (ICCP)
-
-Computational Optical Sensing and Imaging (COSI)
-
 ## Resources
 
 awesome-3D-vision
@@ -75,11 +77,3 @@ awesome-3D-vision
 
 3D-Machine-Learning
 [https://github.com/timzhang642/3D-Machine-Learning]
-
-
-## Papers
-
-[DiffractiveNeuralNetworks]https://github.com/Sourangsu/Diffractive-Neural-Networks
-
-[DiffractiveNeuralNetworks]https://github.com/closest-git/ONNet
-

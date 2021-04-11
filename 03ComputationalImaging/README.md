@@ -21,4 +21,8 @@ Scitific Reports, 2018, 8,12324.
 Deep Optics for Monocular Depth Estimation and 3D Object Detection. 
 CVPR, 2019.
 
+[DiffractiveNeuralNetworks]https://github.com/Sourangsu/Diffractive-Neural-Networks
+
+[DiffractiveNeuralNetworks]https://github.com/closest-git/ONNet
+
 
