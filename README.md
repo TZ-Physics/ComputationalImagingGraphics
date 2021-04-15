@@ -1,4 +1,4 @@
-# Computational Sensing, Imaging and Display
+# Computational Optical Sensing, Imaging and Display
 
 Computer Graphics
 
